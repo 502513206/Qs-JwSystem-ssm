@@ -9,7 +9,7 @@
 		<spring.version>3.1.4.RELEASE</spring.version>
 		<mybatis.version>3.2.3</mybatis.version>
 		<jackson.version>2.4.2</jackson.version>
-		<shiro.version>1.2.3</shiro.version>
+		<shiro.version>1.6.0</shiro.version>
 		<mysql.version>5.1.32</mysql.version>
 		<jackson.version>2.4.2</jackson.version>
 	</properties>
